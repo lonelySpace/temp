@@ -8,3 +8,4 @@ RUN yum -y install openssh-server openssh-clients wget iproute \
   && yum clean all \
   && yum makecache
 CMD ["/usr/sbin/sshd", "-D"]
+https://qimengsdf.ml/api/v1/client/subscribe?token=5d14ce25cd8e7510a269916afdd75f10
